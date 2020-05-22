@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html  >
+<head>
+  
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/logo4.png" type="image/x-icon">
+  <meta name="description" content="">
+  
+  
+  <title>Home</title>
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/facebook-plugin/style.css">
+  <link rel="stylesheet" href="assets/tether/tether.min.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="stylesheet" href="assets/wowslider-init/style.css">
+  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  
+  
+  
+<link rel="stylesheet" href="assets/wowslider-init/boundary/style.css">
+</head>
+<body>
+  <section class="mbr-wowslider-container mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-wowslider-container--boundary" data-ride="carousel" data-keyboard="false" data-wrap="true" data-interval="false" id="wowslider-0" data-rv-view="0" style="background-color: rgb(255, 255, 255);">
+    <div class="mbr-wowslider">
+        <div class="ws_images">
+            <ul>
+                <li>
+                    
+                    <img src="assets/images/st-sava-kids-1600x1080.png" alt="title 3" title="title 3"> text 3
+                </li><li>
+                    
+                    <img src="assets/images/dabovich-1600x1080.png" alt="title 3" title="title 3"> text 3
+                </li><li>
+                    
+                    <img src="assets/images/fr-sebastian-1600x1080.png" alt="title 3" title="title 3"> text 3
+                </li><li>
+                    
+                    <img src="assets/images/5-1600x1080.png" alt="title 3" title="title 3"> text 3
+                </li><li>
+                    
+                    <img src="assets/images/2-1600x1080.png" alt="title 3" title="title 3"> text 3
+                </li><li>
+                    
+                    <img src="assets/images/6-1600x1080.png" alt="title 3" title="title 3"> text 3
+                </li><li>
+                    
+                    <img src="assets/images/argonauts-6-1600x1080.png" alt="title 3" title="title 3"> text 3
+                </li>
+            </ul>
+        </div>
+        <div class="ws_bullets">
+            <div>
+                <a href="#" title="">
+                    <span><img alt="slide1" src="assets/images/tooltip1.jpg"></span>
+                </a><a href="#" title="">
+                    <span><img alt="slide1" src="assets/images/tooltip1.jpg"></span>
+                </a><a href="#" title="">
+                    <span><img alt="slide1" src="assets/images/tooltip1.jpg"></span>
+                </a><a href="#" title="">
+                    <span><img alt="slide1" src="assets/images/tooltip1.jpg"></span>
+                </a><a href="#" title="">
+                    <span><img alt="slide1" src="assets/images/tooltip1.jpg"></span>
+                </a><a href="#" title="">
+                    <span><img alt="slide1" src="assets/images/tooltip1.jpg"></span>
+                </a><a href="#" title="">
+                    <span><img alt="slide1" src="assets/images/tooltip1.jpg"></span>
+                </a>
+            </div>
+        </div>
+        <div class="ws_shadow"></div>
+        <div class="mbr-wowslider-options">
+            <div class="params" data-paddingbottom="0" data-anim-type="carousel_basic" data-theme="boundary" data-autoplay="true" data-paddingtop="0" data-fullscreen="true" data-showbullets="true" data-timeout="2" data-duration="2" data-height="1080" data-width="1600" data-responsive="1" data-showcaptions="false" data-captionseffect="slide" data-hidecontrols="false"></div>
+        </div>
+</div></section>
+
+
+  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="assets/popper/popper.min.js"></script>
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5"></script>
+  <script src="https://apis.google.com/js/plusone.js"></script>
+  <script src="assets/facebook-plugin/facebook-script.js"></script>
+  <script src="assets/tether/tether.min.js"></script>
+  <script src="assets/smoothscroll/smooth-scroll.js"></script>
+  <script src="assets/wowslider-plugin/wowslider.js"></script>
+  <script src="assets/theme/js/script.js"></script>
+  <script src="assets/wowslider-init/script.js"></script>
+  
+  
+<script async src="assets/wowslider-effect/carousel_basic/script.js"></script>
+</body>
+</html>
